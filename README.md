@@ -1,0 +1,7 @@
+- 👋 Olá, eu sou @diogonevesofc
+- 👀 Estou interessado em tecnologia sustentável, desenvolvimento de software e soluções inovadoras para distribuição de energia.
+- 🌱 Atualmente estou aprendendo conceitos avançados em Análise e Desenvolvimento de Sistemas na FIAP.
+- 💞️ Estou procurando colaborar em projetos relacionados a fintech, gestão sustentável dos oceanos e sistemas de distribuição elétrica.
+- 📫 Como me encontrar: Você pode entrar em contato comigo pelo e-mail diogoneves@example.com ou se conectar comigo no LinkedIn.
+- 😄 Pronomes: Ele/Dele
+- ⚡ Fato curioso: Além da minha paixão por tecnologia, gosto de explorar novas linguagens de programação.
